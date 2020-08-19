@@ -1,4 +1,7 @@
 # 2020-08-17-git-john;more stuffs
+
+# git basics
+
 - `git init`: create a repository in your current folder
 - more info blah
 

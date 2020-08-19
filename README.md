@@ -13,3 +13,5 @@ git diff --staged  - diff files in staging area
 HEAD - where you are currently looking
 
 
+## REMOTES
+more stuffs
